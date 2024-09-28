@@ -5,11 +5,28 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Tech+workshops;Hackathons;eSports+Championships;Embedded+Systems;RaspBerryPi+Clusters;Cybersecurity+challenges&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Workshops;Hackathons;ESports;Embedded+Systems;RaspBerryPi+Clusters;Cybersecurity+challenges&center=true&width=500&height=50"></a>
 </p>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <br>
 <br>
+
+<h3 align="center"><a href="https://www.mu-enigma.org" target="_blank">mu-enigma.org</a></h3>
 
 <div align="center">
 <a href="https://discord.gg/5eJwmkV" target="_blank">
